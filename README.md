@@ -4,7 +4,6 @@
 - 🌱 Estudando Typescript, POO para Java e Angular
 - 📫 Contate-me no email: valentina.kuelkamp@gmail.com
 - 📫 Contate-me no linkedin: www.linkedin.com/in/valentina-kricinski-kuelkamp-30625636b
-- 😄 Pronouns: ela/dela
 
 
 ---
