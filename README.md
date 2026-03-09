@@ -7,7 +7,7 @@
 - Sou uma pessoa criativa, comprometida e motivada a aprender continuamente, buscando sempre aprimorar minhas habilidades na área tecnológica.
 - Tenho interesse em solucionar problemas, colaborar com colegas e contribuir para projetos que promovam melhoria, inovação e eficiência.
 - 📫 Contate-me no email: valentina.kuelkamp@gmail.com
-- 📫 Contate-me no linkedin: www.linkedin.com/in/valentina-kricinski-kuelkamp-30625636b
+- 📫 Contate-me no linkedin: https://www.linkedin.com/in/valentina-kricinski-kuelkamp/
 
 
 ---
