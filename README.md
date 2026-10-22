@@ -1,16 +1,28 @@
 ## Olá! Eu sou a Valentina 👋✨
 
-- Carreira em desenvolvimento na área de Informática e ciência da computação.
-- Com Ensino Médio integrado ao curso técnico no Instituto Federal Catarinense – Campus Blumenau finalizado.
-- Iniciando a primeira graduação na instituição Furb, no curso bacharelado em ciência da computação.
-- Facilidade para trabalhar em equipe e construir relações positivas em diferentes ambientes.
-- Sou uma pessoa criativa, comprometida e motivada a aprender continuamente, buscando sempre aprimorar minhas habilidades na área tecnológica.
-- Tenho interesse em solucionar problemas, colaborar com colegas e contribuir para projetos que promovam melhoria, inovação e eficiência.
-- 📫 Contate-me no email: valentina.kuelkamp@gmail.com
-- 📫 Contate-me no linkedin: https://www.linkedin.com/in/valentina-kricinski-kuelkamp/
+## 👩‍💻 Sobre mim
 
+Sou estudante de **Ciência da Computação na FURB**, formada no Ensino Médio Técnico em Informática pelo **Instituto Federal Catarinense (IFC) – Campus Blumenau** e concluinte do programa **Entra21 – Python para Inteligência Artificial**.
 
----
+Sou apaixonada por tecnologia e por transformar conhecimentos em soluções que possam fazer a diferença na vida das pessoas. Estou em busca da minha primeira oportunidade profissional como desenvolvedor, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos inovadores.
+
+### 🚀 Minha jornada na tecnologia
+
+- 🎓 **Ciência da Computação:** atualmente cursando bacharelado na FURB.
+- 💻 **Formação técnica:** Ensino Médio integrado ao Técnico em Informática pelo IFC – Campus Blumenau.
+- 🐍 **Entra21 – Python para IA:** formação concluída, com conhecimentos em Python, desenvolvimento web, APIs, bancos de dados, automação e inteligência artificial.
+- 🤝 **Trabalho em equipe:** experiência no desenvolvimento colaborativo de projetos, resolução de problemas e compartilhamento de conhecimentos.
+
+### 💚 Projeto em destaque — Ponto de Apoio
+
+Participei do desenvolvimento do **Ponto de Apoio**, uma plataforma web que busca aproximar pessoas de psicólogos compatíveis com suas necessidades.
+
+A plataforma conta com **Alice**, uma inteligência artificial que conversa com o usuário, analisa as informações compartilhadas e recomenda o profissional com o perfil mais adequado.
+
+Esse projeto foi uma oportunidade muito gratificante de aplicar meus conhecimentos em um trabalho em equipe, unindo tecnologia, inovação e impacto social.
+
+🌐 **Conheça o projeto:** https://pontodeapoio.social.br
+
 
 ### 🚀 Tecnologias que possuo conhecimento
 
